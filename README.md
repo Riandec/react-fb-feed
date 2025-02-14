@@ -1,7 +1,7 @@
 # Learn React, Facebook post and feed
 Tutorial: https://youtu.be/mXjxKhWNHNo?si=7Tt85LsxcTiqCAof
 
-# React + Vite
+### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
