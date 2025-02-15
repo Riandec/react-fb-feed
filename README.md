@@ -1,6 +1,6 @@
 # Learn React, Facebook post and feed
 Tutorial: https://youtu.be/mXjxKhWNHNo?si=7Tt85LsxcTiqCAof <br>
-This is the result page from screenshot
+This is the result page from screenshot <br>
 <img src"img/Screenshot Feed.png">
 
 ### React + Vite
