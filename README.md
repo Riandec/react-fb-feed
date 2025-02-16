@@ -2,7 +2,7 @@
 Tutorial: https://youtu.be/mXjxKhWNHNo?si=7Tt85LsxcTiqCAof <br>
 Modified: add search and menu in Navbar.jsx <br>
 
-This is the result page from screenshot <br>
+This is the result page <br>
 <img src="img/Screenshot Feed.png">
 
 ### React + Vite
